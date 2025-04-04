@@ -74,7 +74,7 @@ const Auth = () => {
 										animate={{ scale: 1, x: 0 }}
 										exit={{ scale: 0 }}
 									>
-										Create your account
+										Sign Up
 									</motion.h2>
 								) : (
 									<motion.h2
